@@ -1,6 +1,7 @@
 # Informe IMC Latinoamética
-## Estadística I, grupo X 
+## Estadística I, grupo 4
 <p align='right'>Realizado por: Jhonny Zapata Salas</p>
+<p align='right'>Ingeniería Civil - Facultad de Ingeniería UdeA</p>
 
 ### Introducción
 
